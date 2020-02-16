@@ -22,7 +22,7 @@ I build this project to be reusable in other projects later on. I build the requ
 11. PIC of Payment Address (Alphanumeric, symbols)
 12. Additional Notes (Alphanumeric, symbols)
 ## My Additional Fields
-Occupation (Alphanumeric, symbols)
-Field of Expertise (Choose from available field of expertise)
-Whatsapp Mobile Number (Country Code (begin with +), numeric)
-Domicile (Choose from available city)
+1. Occupation (Alphanumeric, symbols)
+2. Field of Expertise (Choose from available field of expertise)
+3. Whatsapp Mobile Number (Country Code (begin with +), numeric)
+4. Domicile (Choose from available city)
